@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Joke Daily</string>
+    <string name="action_settings">Settings</string>
+
+
+    <!-- Bottom tab>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
+    <string name="tab1_name">主页</string>
+    <string name="tab2_name">趣闻</string>
+    <string name="tab3_name">图片</string>
+    <string name="tab4_name">设置</string>
+</resources>
